@@ -67,3 +67,12 @@ Este proyecto está licenciado bajo la [Licencia MIT](LICENSE), permitiendo su l
 ---
 
 Repositorio en GitHub: [OsmanJimenez/Social\_Media\_Neumorphism](https://github.com/OsmanJimenez/Social_Media_Neumorphism)
+
+
+## 👤 Autor
+
+**Osman Armando Jiménez Cortés**  
+[Portafolio profesional](https://osmanjimenez.com/)  
+[Perfil de GitHub](https://github.com/OsmanJimenez)
+
+Ingeniero de Sistemas y Desarrollador Full Stack especializado en desarrollo web y aplicaciones móviles.
